@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# WhatsApp session files
+session.json
+yasser-session/
+
+# Mac system files
+.DS_Store
